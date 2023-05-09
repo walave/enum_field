@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Add YOLOv8 LibTorch C++ inference example (#7090)
