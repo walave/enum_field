@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+ultralytics 8.0.229 add model.embed() method (#7098)
