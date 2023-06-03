@@ -1,1 +1,1 @@
-Update Docs robots.txt (#7728)
+docs: update view-results-in-terminal.md (#66)
