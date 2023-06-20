@@ -1,1 +1,1 @@
-fix val each epoch
+Retry once for Docker CI failures (#8164)
