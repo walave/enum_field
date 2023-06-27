@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Add C++ Classify inference example (#6868)
