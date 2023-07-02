@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
