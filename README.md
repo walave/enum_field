@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
