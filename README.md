@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Elaborate Train and Predict mode docs arguments (#8137)
