@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
