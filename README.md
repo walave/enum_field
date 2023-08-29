@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
