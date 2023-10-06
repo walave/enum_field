@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Add YouTube iframe loading=lazy (#8001)
