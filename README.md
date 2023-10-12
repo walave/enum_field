@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+fix for predicting with batch_size > 1 (#47)
