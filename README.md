@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Retry once for Docker CI failures (#8164)
