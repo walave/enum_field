@@ -1,1 +1,1 @@
-fix predict with class filter
+Fix tfjs exports for ARM64 Dockerfile (#8766)
