@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
