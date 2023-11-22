@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+ultralytics 8.0.225 multi-video tracker bug fix (#6862)
