@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
