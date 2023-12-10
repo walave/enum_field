@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Compress docs images (#8124)
