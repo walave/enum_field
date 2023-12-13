@@ -1,1 +1,1 @@
-Replace onnx2tf usage from CLI to Python (#8429)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
