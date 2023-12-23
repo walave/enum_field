@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Update CI.md with CI links (#8786)
