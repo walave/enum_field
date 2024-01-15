@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Add OBB save_txt feature (#7450)
