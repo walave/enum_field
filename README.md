@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Add PaddlePaddle Docs Integrations Page (#8858)
