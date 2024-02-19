@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
