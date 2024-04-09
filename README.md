@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
