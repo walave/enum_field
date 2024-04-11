@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Optimize function calls to method calls (#8507)
