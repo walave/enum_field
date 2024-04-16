@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Clarify triton server boolean value (#8532)
