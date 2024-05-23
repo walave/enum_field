@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
