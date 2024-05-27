@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Capitalize OBB acronym (#7383)
