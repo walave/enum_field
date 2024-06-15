@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+fix yolo classify model loading error (#9196)
