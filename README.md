@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Pass callbacks to validator (#7320)
