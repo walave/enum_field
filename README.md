@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+ultralytics 8.1.30 add advanced HUB train arguments (#9110)
