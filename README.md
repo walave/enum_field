@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Add new YOLOv8 OBB model metrics (#7379)
