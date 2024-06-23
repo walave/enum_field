@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+* fix for predicting with batch_size > 1
