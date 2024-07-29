@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
