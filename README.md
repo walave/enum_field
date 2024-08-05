@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
