@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
