@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Update inference.cpp (bug) (#7279)
