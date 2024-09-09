@@ -1,1 +1,1 @@
-Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
