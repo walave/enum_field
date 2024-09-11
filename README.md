@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
