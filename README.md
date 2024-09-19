@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Add integrations/gradio Docs page (#7935)
