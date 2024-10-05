@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
