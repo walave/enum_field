@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Add visuals in guides/distance-calculation.md (#7876)
