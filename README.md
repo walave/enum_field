@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
