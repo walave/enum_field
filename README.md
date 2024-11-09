@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
