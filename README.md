@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+YOLOv8 INT8 TFLite Inference Example (#7317)
